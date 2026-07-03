@@ -147,7 +147,7 @@ export default function About() {
 
           <div className="overflow-hidden">
             <p className="stagger-reveal text-lg md:text-xl text-gray-400 font-light leading-relaxed max-w-xl">
-              I&#39;m Magesh Kumar E, a 2nd year BSc Computer Science student (Class of 2027) with a passion for building modern, performant web applications. I love turning ideas into elegant interfaces — combining clean code with creative design to craft experiences people actually enjoy using.
+              I&#39;m Magesh Kumar E, a 3rd year BSc Computer Science student (Class of 2027) with a passion for building modern, performant web applications. I love turning ideas into elegant interfaces — combining clean code with creative design to craft experiences people actually enjoy using.
             </p>
           </div>
 
